@@ -197,7 +197,7 @@ section {
 }
 /* header */
 .header {
-  border-bottom: 1px solid 72px;
+  border-bottom: 1px solid var(--accent-color);
 }
 .header .container {
   display: flex;
